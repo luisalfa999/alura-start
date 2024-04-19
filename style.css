@@ -7,14 +7,16 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px;
 }
     .cabeçalho-lista-item{
         display: inline-block;
         margin: 0 16px;
-        font-lize: 24px;
+
     }
 
 .logo{
+    width: 25%;
+}
+.escola-img{
     width: 25%;
 }
