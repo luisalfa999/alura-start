@@ -23,5 +23,11 @@ body{
 
 .escola{
     background-image: linear-gradient( #080101,  #ffffff);
+    justify-content: center;
+    align-items: center;
+}
+
+.escola-div-conteuo{
+    width: 35%;
 
 }
