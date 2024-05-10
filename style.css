@@ -6,7 +6,7 @@
 
 
 body{
-    background-color: #000000;
+    background-color: #9e9e9e;
     color: #ffffff;
 
 }
@@ -30,7 +30,7 @@ body{
 
 .escola{
     display: flex;
-    background-image: linear-gradient( #080101,  #ffffff);
+    background-image: linear-gradient( #000000,  #ffffff);
     justify-content: center;
     align-items: center;
 }
@@ -43,4 +43,8 @@ body{
 .escola-titulo{
     padding: 24px 0;
 
+}
+
+.estudante imagem{
+    width: 120px;
 }
