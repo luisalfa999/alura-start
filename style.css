@@ -52,3 +52,9 @@ body{
 width: 25px;
 
 }
+
+.estudante-todos{
+    display; grid;
+    grid-template-columns: 16% 16% 16% 16% 16%
+
+}
